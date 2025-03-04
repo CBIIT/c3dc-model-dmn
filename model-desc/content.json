@@ -22,17 +22,17 @@
       "1.1.0"
     ],
     "ui_settings":{
-            "name": "CDS",
+            "name": "C3DC",
             "assets": null,
             "configuration": {
-              "pageTitle": "CDS Data Model",
+              "pageTitle": "C3DC Data Model",
               "pdfConfig": {
                 "fileType": "pdf",
-                "prefix": "CDS_",
-                "downloadPrefix": "CDS_",
-                "fileTransferManifestName": "CDS_",
+                "prefix": "c3dc_",
+                "downloadPrefix": "c3dc_",
+                "fileTransferManifestName": "c3dc_",
                 "iconSrc": "logo",
-                "footnote": "https://hub.datacommons.cancer.gov/model-navigator/CDS",
+                "footnote": "https://hub.datacommons.cancer.gov/model-navigator/C3DC",
                 "landscape": true
               },
               "facetFilterSearchData": [
